@@ -7,7 +7,7 @@ This is my submission for my final project in my Object-Oriented Application Dev
 ![alt text](https://github.com/meagerfindings/Software-1-Inventory-System/blob/master/src/mainscreen.png "Main Application Screen")
 
 #### Add Part Screen
-![alt text]https://github.com/meagerfindings/Software-1-Inventory-System/blob/master/src/add_part.png "Add Part Screen")
+![alt text](https://github.com/meagerfindings/Software-1-Inventory-System/blob/master/src/add_part.png "Add Part Screen")
 
 #### Modify Part Screen
 ![alt text](https://github.com/meagerfindings/Software-1-Inventory-System/blob/master/src/modify_part.png "Modify Part Screen")
