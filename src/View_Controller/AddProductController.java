@@ -460,7 +460,7 @@ public class AddProductController implements Initializable {
             } else if (priceCost < partsTotalPrice) {
                 Alert alert = new Alert(Alert.AlertType.ERROR);
                 alert.setTitle("Product Price Error");
-                alert.setHeaderText("Product Price is to low.");
+                alert.setHeaderText("Product Price is too low.");
                 alert.setContentText("The price of a product cannot be lower than the price of its parts.\n\nCost of Parts: $" + partsTotalPrice + "\nProduct price entered: $" + priceCost);
 
                 alert.showAndWait();
