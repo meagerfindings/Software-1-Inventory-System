@@ -463,7 +463,7 @@ public class ModifyProductController implements Initializable {
                 Alert alert = new Alert(Alert.AlertType.ERROR);
                 alert.setTitle("Product Price Error");
                 alert.setHeaderText("Product Price is to low.");
-                alert.setContentText("The price of a product cannot be lower thant the price of its parts.\n\nCost of Parts: $" + partsTotalPrice + "\nProduct price entered: $" + priceCost);
+                alert.setContentText("The price of a product cannot be lower than the price of its parts.\n\nCost of Parts: $" + partsTotalPrice + "\nProduct price entered: $" + priceCost);
 
                 alert.showAndWait();
 
